@@ -32,6 +32,6 @@ Think about the Honolulu Marathon (December), many visitors from around the worl
 
 
 Resources: 
-          - https://www.gohawaii.com/islands/oahu/events
-          - https://www.visittheusa.mx/state/hawai
-          - https://mp.mydigitalpublication.com/publication/?i=655816&p=&pn=
+- https://www.gohawaii.com/islands/oahu/events
+- https://www.visittheusa.mx/state/hawai
+- https://mp.mydigitalpublication.com/publication/?i=655816&p=&pn=
